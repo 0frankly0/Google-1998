@@ -1,0 +1,110 @@
+
+.header {
+
+    width: 100%;
+
+    /* Bu kısımda başlık kısımın genişliğini tamamını verdim */
+    
+}
+
+
+.logo {
+    margin-left: 477px;
+    /* Bu kısımda logoyu 477px saga goturdum ( yanı 477 px soldan verdim )*/
+
+}
+
+.genel {
+
+   width: 90%;
+   height: 150px;
+   background-color: white;
+   margin: 0 auto;
+   
+   /* Bu kısımda en genel box olusturdum ve genıslıgını aldıgı alanın yuzde 90 nını verdim  */
+
+}
+
+.arama {
+
+height: 64px;
+width: 100%;
+background-color: #eee7de;
+
+/* Burda arama kısmının backgroundunu ve genişlik-yükseklik verdim */
+
+}
+
+.box1 {
+  
+    width: 37%;
+    height:78px;
+    margin-top: 2px;
+    background-color: #7EE5DA;
+    float: left;
+}
+.box1 ul{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    list-style-type: none;
+    margin-top: 0.6rem;
+}
+
+.box2 {
+
+    width: 20%;
+    height:78px;
+    margin: 2px 2px 0px 2px;
+    background-color: #70CCC2;
+    float: left;
+    
+}
+
+.box3 
+{
+    width: 42.66%;
+    height:78px;
+    margin-top: 2px;
+    background-color: #62B3AA;
+    float: left;
+}
+
+.box3 #Get-Google {
+
+padding-left: 206px;
+
+
+}
+
+.box3 #month  { 
+
+padding-left: 194px;
+
+
+
+}
+
+
+.box2 ul {
+
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    margin-top: 0.3rem;
+}
+
+.box3 #email {
+
+    margin-top: 1px;
+    margin-left: 160px;
+}
+
+.box3 #Sub {
+
+    margin-top: 0.3px;
+    margin-left: 186px;
+}
+
+/* box kısımlarında da koydugum 4 tane ayrı ayrı boxların ozellıklerını tanımladım  */
